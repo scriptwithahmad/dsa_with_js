@@ -1,7 +1,6 @@
 // Array Traversing & Loop over array
 
 // 1. ----------
-
 let data = [0, 48, 29, 4, 99, 29, 12, 33, 57, 68];
 
 for (let i = 0; i < data.length; i++) {
@@ -21,12 +20,3 @@ function getElement() {
     alert("Enter a valid input");
   }
 }
-
-
-// 2. ----------
-
-
-
-
-
-
